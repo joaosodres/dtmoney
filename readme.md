@@ -1,0 +1,1 @@
+contexto => compartilhamento de estados entre varios componentes da aplicação
